@@ -1,0 +1,4 @@
+"startup/SteinGCD.o"
+"startup/main.o"
+"startup/startup_stm32.o"
+"startup/sysmem.o"
