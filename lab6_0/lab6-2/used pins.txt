@@ -1,0 +1,4 @@
+PA0,1,4: 7-seg
+PA5: LED
+PA6-9: Keypad COL1-4
+PB10-13: Keypad ROW1-4
